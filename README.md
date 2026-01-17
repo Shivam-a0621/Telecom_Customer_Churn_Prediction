@@ -481,4 +481,3 @@ For questions or issues, please open a GitHub issue or contact the project maint
 
 ---
 
-*Built with ❤️ using Machine Learning for Business Impact*
